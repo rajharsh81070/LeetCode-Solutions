@@ -8,9 +8,7 @@
 
 ---
 
-- The repository contains solutions to various [problems](https://leetcode.com/problemset/all/) on leetcode.
-
-* I will be updating this repository daily.
+The repository contains solutions to various [problems](https://leetcode.com/problemset/all/) on leetcode. I will be updating this repository daily.
 
 ## How to contribute?
 
