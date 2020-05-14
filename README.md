@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://leetcode.com/">
-        <img height=85 src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca72.png">
+        <img height=85 background-color: white src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg">
     </a>
     <br><a href="https://leetcode.com/rajharsh81070/"> Profile.
     </a>
