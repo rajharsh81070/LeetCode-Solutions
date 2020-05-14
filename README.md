@@ -8,7 +8,7 @@
 
 ## General Information
 
-The repository contains my LeetCode solutions.
+The repository contains my LeetCode solutions in c++ and java.
 | Problems | Solutions |
 | -------------------------------------------------------------------------------- | --------------------------------------- |
 | <a href="https://leetcode.com/problemset/all/">LeetCode ProblemSet</a> | <a href="Problems">Solutions</a> |
