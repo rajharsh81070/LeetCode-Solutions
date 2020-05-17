@@ -13,6 +13,7 @@ The repository contains my LeetCode solutions in c++ and java.
 | -------------------------------------------------------------------------------- | --------------------------------------- |
 | <a href="https://leetcode.com/problemset/all/">LeetCode ProblemSet</a> | <a href="Problems">Solutions</a> |
 | <a href="https://leetcode.com/explore/">LeetCode Explore</a> | <a href="Explore">Solutions</a> |
+| <a href="https://leetcode.com/contest/">Contest</a> | <a href="Contest">Solutions</a> |
 
 ## How to contribute?
 
